@@ -1,4 +1,4 @@
-# Project1-Excel--Sale-Analysis-
+# Project1-Excel--Sale-Analysis
 
 ### Project Overview
 
