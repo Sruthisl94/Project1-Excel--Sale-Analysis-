@@ -35,3 +35,7 @@ Professionals and individuals with skilled manual occupations residing in North 
 3.Commute Distance and Vehicle Ownership:
 There is a notable trend in vehicle ownership based on commute distance.
 Individuals with a commute distance of 0-1 miles are more likely to buy bikes. In contrast, those with a commute distance of 5-10 miles are predominantly car owners.
+
+
+
+
