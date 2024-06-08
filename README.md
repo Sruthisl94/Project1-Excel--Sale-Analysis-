@@ -1,6 +1,6 @@
 # Project1-Excel--Sale-Analysis-
 
-###Project Overview
+### Project Overview
 
 This data analysis project focusses on analysing sales data using microsoft excel.
 Data Cleaning and Preprocessing: The dataset underwent thorough cleaning and preprocessing within Excel to ensure data quality and consistency.   
